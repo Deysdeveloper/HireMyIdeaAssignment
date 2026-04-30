@@ -2,6 +2,10 @@
 
 An Android app built with Jetpack Compose that displays a health insights dashboard.
 
+
+## Demo Video Link: https://drive.google.com/file/d/1GCs4_eJScZ0rPJZvhSdtnKtB-j1iodO4/view?usp=sharing
+
+
 ## Features
 
 - **Insights Screen** with scrollable cards:
